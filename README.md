@@ -1,4 +1,4 @@
-👋 Welcome to My GitHub Profile!
+# 👋 **Welcome to My GitHub Profile!**
 
 **Computer Engineering Undergraduate | MERN Stack Developer | Machine Learning Enthusiast**  
 📧 **Email**: [tharukah88888@gmail.com](mailto:tharukah88888@gmail.com) | 📱 **Phone**: +94 719 150 331  
@@ -27,12 +27,6 @@ I’m a **third-year Computer Engineering** student at the University of Ruhuna,
 
 #### **⚙️ Tools & Technologies**  
 - Docker, Git, AWS, Jira, Firebase, Linux
-
----
-
-### **📚 Key Projects**
-
-Here’s a more **summarized** version of the key projects for your README:
 
 ---
 
@@ -86,28 +80,16 @@ Here’s a more **summarized** version of the key projects for your README:
 16. **🔐 Secure File Sharing System**  
     File-sharing app with encrypted uploads and downloads using React and Node.js.
 
-### **🎓 Education**
-- **BSc Engineering (Hons)** in **Computer Engineering** | University of Ruhuna  
-- **GCE Advanced Level (A/L)**: Chemistry (A), Combined Mathematics (A), Physics (B)  
-- **GCE Ordinary Level (O/L)**: 9 A’s (including ICT)
+### **🌱 Open for Collaboration!**
 
----
-
-### **🏅 Extracurricular Activities**
-- **Organizer**: Xtreme 18.0 (Logistics), CareerXpo 1.0 (Program Team)  
-- **Vice Secretary**: IESL Day 2024  
-- **Member**: SEDS Ruhuna, Eminence (Coding), Red Cypher (Cybersecurity Challenges)  
-- **Volunteer**: Sasnaka Sansada & Mehewara (Community Service)
-
-
-**Feel free to connect with me on [GitHub](https://github.com/THARU12342000) or [LinkedIn](https://linkedin.com/in/hashini-tharuka-49303b2b7)! Looking forward to collaborating and learning with you!** 🌱🚀
-
-🌱 **Open for Collaboration**:
 I’m always looking to collaborate on interesting projects, whether it’s web development, machine learning, or something new! If you’re working on something exciting, feel free to reach out.
 
 📫 **Let’s Connect**:
 - LinkedIn: [Hashini Tharuka](https://linkedin.com/in/hashini-tharuka-49303b2b7)
 - Email: tharukah8888@gmail.com
 
-🔗 **Fun Fact**:
+---
+
+### **🔗 Fun Fact:**
 When I’m not coding, you’ll find me exploring new places or binge-watching tech talks. I also believe in giving back, so I actively participate in volunteering and student events!
+
