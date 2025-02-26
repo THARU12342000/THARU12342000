@@ -71,14 +71,9 @@ I’m a **third-year Computer Engineering** student at the University of Ruhuna,
 13. **🤖 Gesture-Controlled Robot** *(Ongoing)*  
     Arduino/Raspberry Pi-based robot with obstacle detection and real-time navigation.
 
-14. **🎮 Multiplayer Game Server**  
+14. **🎮 Multiplayer Tic-Tac-Toe Game Server**  
     Real-time multiplayer game server using Node.js and WebSocket.
 
-15. **💻 Real-Time Collaboration Tool**  
-    Web platform for real-time document collaboration with MERN stack and WebSockets.
-
-16. **🔐 Secure File Sharing System**  
-    File-sharing app with encrypted uploads and downloads using React and Node.js.
 
 ### **🌱 Open for Collaboration!**
 
