@@ -1,6 +1,3 @@
-Here's a creative README for your profile repository:
-
----
 
 # Welcome to THARU12342000's GitHub!
 
